@@ -6,10 +6,10 @@ This project implements a fraud detection model using data from a transaction da
 
 1. **Data Loading and Cleaning:**
    - Load Data:
-      - Load transaction data from "Fraud.csv".
+     Load transaction data from "Fraud.csv".
 
    - Handling Missing Values:
-      - Identify missing values in the dataset.
+     Identify missing values in the dataset.
 
    # Outlier Detection:
       Detect outliers in the 'amount' column using the Interquartile Range (IQR) method.

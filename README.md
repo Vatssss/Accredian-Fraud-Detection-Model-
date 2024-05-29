@@ -1,5 +1,5 @@
 # Accredian-Fraud-Detection-Model-
-**INSAID- ACCREDIAN Internship Task Data Science &amp; Machine Learning**
+# INSAID- ACCREDIAN Internship Task Data Science &amp; Machine Learning
 This project implements a fraud detection model using data from a transaction dataset.
 
 **Project Steps:**

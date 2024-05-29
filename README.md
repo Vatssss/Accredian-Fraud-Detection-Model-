@@ -1,5 +1,5 @@
 # Accredian-Fraud-Detection-Model-
-INSAID- ACCREDIAN Internship Task Data Science &amp; Machine Learning
+**INSAID- ACCREDIAN Internship Task Data Science &amp; Machine Learning**
 This project implements a fraud detection model using data from a transaction dataset.
 
 **Project Steps:**
@@ -26,8 +26,8 @@ This project implements a fraud detection model using data from a transaction da
       Train a logistic regression model on the training data.
 
 **Code Structure:**
-`Fraud.csv`: Contains transaction data (features and target variable isFraud).
-`fraudDetection.ipynb`: Jupyter notebook containing the main code.
+- `Fraud.csv`: Contains transaction data (features and target variable isFraud).
+- `fraudDetection.ipynb`: Jupyter notebook containing the main code.
 
 **Libraries Used:**
 1. pandas

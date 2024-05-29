@@ -2,13 +2,14 @@
 INSAID- ACCREDIAN Internship Task Data Science &amp; Machine Learning
 This project implements a fraud detection model using data from a transaction dataset.
 
-Project Steps:
-# 1. Data Loading and Cleaning:
-   # Load Data:
-      Load transaction data from "Fraud.csv".
+**Project Steps:**
 
-   # Handling Missing Values:
-      Identify missing values in the dataset.
+1. **Data Loading and Cleaning:**
+   - Load Data:
+      - Load transaction data from "Fraud.csv".
+
+   - Handling Missing Values:
+      - Identify missing values in the dataset.
 
    # Outlier Detection:
       Detect outliers in the 'amount' column using the Interquartile Range (IQR) method.

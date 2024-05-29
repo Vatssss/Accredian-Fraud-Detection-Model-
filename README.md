@@ -11,25 +11,25 @@ This project implements a fraud detection model using data from a transaction da
    - Handling Missing Values:
      Identify missing values in the dataset.
 
-   # Outlier Detection:
+   - Outlier Detection:
       Detect outliers in the 'amount' column using the Interquartile Range (IQR) method.
 
-# 2. Feature Engineering:
-   # Select Relevant Features:
+2. **Feature Engineering:**
+   - Select Relevant Features:
       Choose numeric features relevant to fraud detection: step, amount, oldbalanceOrg, newbalanceOrig, oldbalanceDest, newbalanceDest, isFlaggedFraud.
 
-# 3. Model Training:
-  #  Split Data:
+3. **Model Training:**
+   - Split Data:
       Split the data into training and testing sets (65% training, 35% testing).
 
-   # Train Model:
+   - Train Model:
       Train a logistic regression model on the training data.
 
-# Code Structure:
-Fraud.csv: Contains transaction data (features and target variable isFraud).
-fraud_detection_model.ipynb: Jupyter notebook containing the main code.
+**Code Structure:**
+`Fraud.csv`: Contains transaction data (features and target variable isFraud).
+`fraudDetection.ipynb`: Jupyter notebook containing the main code.
 
-# Libraries Used:
+**Libraries Used:**
 1. pandas
 2. scikit-learn
 3. NumPy

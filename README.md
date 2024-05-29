@@ -28,6 +28,7 @@ This project implements a fraud detection model using data from a transaction da
 **Code Structure:**
 - `Fraud.csv`: Contains transaction data (features and target variable isFraud).
 - `fraudDetection.ipynb`: Jupyter notebook containing the main code.
+- Data Source: The dataset can be found [here](https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV).
 
 **Libraries Used:**
 1. pandas
